@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">안녕하세요 \n심리테스트 시작합니다</string>
+    <string name="question">가장 좋아하는 꽃이 꽃병에 있을 때 \n 꽃이 말라가고 있으면 어떻게 할 것인가</string>
+</resources>
